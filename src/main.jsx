@@ -29,7 +29,7 @@ const projects = [
   {
     title: "Portfolio Website",
     image: "https://www.teachertrap.com/wp-content/uploads/2019/05/Teacher-Interview-Blog-Post-by-Teacher-Trap2.png",
-    link: "#home"
+    link: "https://github.com/Roopa-R-573/My-Portfolio.git"
   },
   {
     title: "Tender Website",
