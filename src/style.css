@@ -60,7 +60,7 @@ a { color: inherit; text-decoration: none; }
 
 .nav-links a:hover {
   color: var(--blue-dark);
-  background: #e8f8ff;
+  background: black;
   transform: translateY(-2px);
 }
 
